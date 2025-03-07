@@ -2,7 +2,7 @@
 
 MovieLand is a full-stack movie website where users can browse, search, and view details about their favorite movies. Built with modern technologies, the project features a responsive front-end and a powerful back-end API.
 
-![MovieLand Preview](movie-fullstack.gif)
+![MovieLand Preview](https://github.com/yasin-erkan/MovieLand-Fullstack/blob/main/movieland-fullstack.gif)
 
 
 ## 🚀 Technologies Used
